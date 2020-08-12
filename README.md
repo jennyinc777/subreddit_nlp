@@ -22,11 +22,11 @@ We are meticulous, detail-oriented, and will turn this problem on its head to fi
 |-|-|
 | data | advice.csv, eli5.csv, both_subreddits.csv are files that are saved when running the Jupyter notebooks in this repository. |
 | assets | images used in the Jupyter notebooks as Markdown |
-| `EDA.ipynb` | exploratory data analysis notebook |
-| `Extract_n_Load.ipynb` | extracting data from Reddit |
-| `Graphs.ipynb` | presentation graphs |
-| `Modeling1.ipynb` | models include logistic regression and multinomial naive bayes |
-| `Modeling2.ipynb` | models include bagging classifier, random forest classifier, and adaboost |
+| `1_Extract_n_Load.ipynb` | extracting data from Reddit |
+| `2_EDA.ipynb` | exploratory data analysis notebook |
+| `3_Modeling1.ipynb` | models include logistic regression and multinomial naive bayes  |
+| `4_Modeling2.ipynb` | models include bagging classifier, random forest classifier, and adaboost |
+| `5_Graphs.ipynb` | presentation graphs |
 | `NLP.pptx` | presentation deck that give a brief overview and some recommendations  |
 | `requirements.txt` | requirements to run the files in this repo |
 
