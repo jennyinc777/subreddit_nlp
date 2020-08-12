@@ -44,8 +44,8 @@ We are meticulous, detail-oriented, and will turn this problem on its head to fi
 
 - Our model with the best test score of 0.9892 includes a `CountVectorizer` with a `PorterStemmer` as the analyzer and a `LogisticRegression()` classifier.
 - To make a robust model, it is highly recommended that the company use a Porter Stemmer or some sort of lemmatizing device.
-- Logistic regression and Multinomial Naive Bayes yielded better results with smaller amounts of information.
+- Logistic Regression and Multinomial Naive Bayes yielded better results with smaller amounts of information.
 - With “self text” column pulled in, Random Forest, Boosting, and Bagging seemed to work well.
 - The two subreddits shared a few common words (e.g. feel, like).  However, the advice subreddit had more words pertaining to advice (e.g. don’t, know, need, help).
 
-Please look through Modeling1.ipynb and Modeling2.ipynb to get a better understanding of model scores.
+Please look through `Modeling1.ipynb` and `Modeling2.ipynb` to get a better understanding of model scores.
